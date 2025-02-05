@@ -1,16 +1,27 @@
-👋 # Hi, I’m Vedant Vatare
-<hr>
+<p align="center">
+  <h1 align="center">Hi👋, I'm Vedant Vatare
+   <h3 align="center">Software Engineering Student | Full-Stack Web Development</h3>
+  </h1>
+</p>
 
- I’m interested in learning and exploring in the field of computer science and development.  
+## About Me
 
- I’m currently learning  Front end development 👨‍💻 and developing my skills in computer science fundamentals.  
+- Pursuing BTech in Computer Science Engineering
+- Learning Full-Stack Web Development
+- Applying my knowledge by building projects and Open Source contributions
 
- I'm pursuing a BTech in Computer Science Engineering 💻 and actively seeking opportunities to enhance my knowledge 📚 and expertise in the field.  
+## Tools I Have Used
 
-💡 I'm passionate about software development and aspire to become a proficient software engineer, contributing to innovative projects and solving real-world problems.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-🔗 You can reach me via email vedantvatare73@gmail.com or connect with me on Twitter https://twitter.com/VedantVatare  
-<hr>
-#Thanks for reading and i am always there for collaboration !!!
-
-
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
